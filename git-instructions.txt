@@ -1,0 +1,20 @@
+1. git --version
+
+2. git config --global user.name "your-name"
+
+3. git config --global user.email "youremail@gmail.com"
+
+4. git config user.name "your-project-spesific-name"
+
+5. git config user.email "your-project-spesific-email"
+
+6. git config --global init.defaultBranch main
+
+7. git init
+
+8. git status
+
+9. git add file-name // add spesific file to the staging area which will be tracked by git
+
+10. git commit -m 'add message here with your commit'
+
