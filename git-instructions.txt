@@ -43,3 +43,5 @@
 22. git branch new-branch //Creates new branch from current active branch
 
 23. git branch new-branch source-branch // Creates new branch from source branch
+
+24. git checkout -b new-branch-name // Creates new branch and switches to it imediately
