@@ -16,5 +16,8 @@
 
 9. git add file-name // add spesific file to the staging area which will be tracked by git
 
-10. git commit -m 'add message here with your commit'
+10. git add ./ // add all the files to the staging area in one go
 
+11. git commit -m 'add message here with your commit'
+
+12. git log // Shows the commit history
