@@ -21,3 +21,9 @@
 11. git commit -m 'add message here with your commit'
 
 12. git log // Shows the commit history
+
+13. git checkout commit-id //takes to the specified commit state
+
+14. git checkout main // switches from another branches to the main branch
+
+15. git checkout -f main //switches to main branch even if there are unsaved chanches in current branch
