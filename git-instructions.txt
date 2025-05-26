@@ -29,3 +29,9 @@
 15. git checkout -f main //switches to main branch even if there are unsaved chanches in current branch
 
 16. git remote add origin https://github.com/rohitkadam71/git-tutorial.git // adds your remote repository in your git
+
+17. git branch branch-name // to create new branch by default from main
+
+18. git branch -b feature-branch //creates new branch and imediately switch to it
+
+19. gir branch new-brach-name source-branch-name //Creates new branch from existing source branch
