@@ -27,3 +27,5 @@
 14. git checkout main // switches from another branches to the main branch
 
 15. git checkout -f main //switches to main branch even if there are unsaved chanches in current branch
+
+16. git remote add origin https://github.com/rohitkadam71/git-tutorial.git // adds your remote repository in your git
