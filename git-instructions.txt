@@ -31,3 +31,15 @@
 16. git remote add origin https://github.com/rohitkadam71/git-tutorial.git // adds your remote repository in your git
 
 17. git push origin main OR git push origin main --force
+
+18. git push --set-upstream origin feature-branch OR git push -u origin feature-branch //It adds the local branch to the remote repository branch
+
+19. git push // push the changes from current local branch to its remote branch
+
+20. git pull // pulls the chanes from remote branch in current active branch
+
+21. git branch // Lists all branches
+
+22. git branch new-branch //Creates new branch from current active branch
+
+23. git branch new-branch source-branch // Creates new branch from source branch
